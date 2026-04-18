@@ -1,0 +1,82 @@
+[
+  {
+    "id": "commodore_64",
+    "title": "Commodore 64",
+    "subtitle": "Best-selling home computer",
+    "description": "Released in 1982, the Commodore 64 became the best-selling single personal computer model of all time.",
+    "year": 1982,
+    "category": "computer",
+    "tags": ["Commodore", "8-bit", "Home Computer"],
+    "media": [
+      {
+        "id": "B1E2D3C4-1111-2222-3333-444455556666",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Commodore64.jpg",
+        "type": "image",
+        "attribution": {
+          "author": "Bill Bertram",
+          "license": "CC BY-SA 2.5",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Commodore64.jpg",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5/"
+        }
+      }
+    ]
+  },
+  {
+    "id": "zx_spectrum",
+    "title": "ZX Spectrum",
+    "subtitle": "British home computer",
+    "description": "The ZX Spectrum, released in 1982, was one of the most popular home computers in the UK.",
+    "year": 1982,
+    "category": "computer",
+    "tags": ["Sinclair", "8-bit"],
+    "media": [
+      {
+        "id": "AABBCCDD-1111-2222-3333-444455556666",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sinclair_ZX_Spectrum.jpg",
+        "type": "image",
+        "attribution": {
+          "author": "Bill Bertram",
+          "license": "CC BY-SA 2.5",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Sinclair_ZX_Spectrum.jpg",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5/"
+        }
+      }
+    ]
+  },
+  {
+    "id": "super_mario_bros",
+    "title": "Super Mario Bros.",
+    "subtitle": "NES classic",
+    "description": "Released in 1985 for the Nintendo Entertainment System, Super Mario Bros. became one of the most iconic games ever created.",
+    "year": 1985,
+    "category": "videogame",
+    "tags": ["Nintendo", "Platformer"],
+    "media": [
+      {
+        "id": "99887766-1111-2222-3333-444455556666",
+        "url": "https://picsum.photos/400/300",
+        "type": "screenshot",
+        "attribution": null
+      }
+    ]
+  },
+  {
+    "id": "doom_1993",
+    "title": "Doom",
+    "subtitle": "Revolutionary FPS",
+    "description": "Doom, released in 1993, popularized the first-person shooter genre and introduced networked multiplayer.",
+    "year": 1993,
+    "category": "videogame",
+    "tags": ["FPS", "id Software"],
+    "media": [
+      {
+        "id": "55667788-1111-2222-3333-444455556666",
+        "url": "https://picsum.photos/400/300",
+        "type": "screenshot",
+        "attribution": null
+      }
+    ]
+  }
+]
