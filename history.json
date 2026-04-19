@@ -3,7 +3,7 @@
     "id": "zx_spectrum_48k",
     "title": "ZX Spectrum 48K",
     "subtitle": "Sinclair Research",
-    "description": "A popular 8-bit home computer released in 1982, known for its rubber keyboard and massive game library in the UK.",
+    "description": "An iconic 8-bit home computer released in 1982, widely popular in the UK for gaming and programming.",
     "year": 1982,
     "category": "computer",
     "tags": ["8-bit", "home computer", "sinclair"],
@@ -11,12 +11,15 @@
     "platform": null,
     "media": [
       {
+        "id": "A1B2C3D4-1111-2222-3333-444455556666",
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/ZXSpectrum48k.jpg",
         "type": "image",
         "attribution": {
-          "author": "Wikimedia Commons",
-          "license": "CC BY-SA",
-          "source": "https://commons.wikimedia.org"
+          "author": "Martin Lindner",
+          "license": "CC BY-SA 2.0",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:ZXSpectrum48k.jpg",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/"
         }
       }
     ]
@@ -25,7 +28,7 @@
     "id": "commodore_64",
     "title": "Commodore 64",
     "subtitle": "Commodore",
-    "description": "One of the best-selling home computers of all time, released in 1982 with advanced sound and graphics for its era.",
+    "description": "One of the best-selling home computers of all time, released in 1982 with advanced graphics and sound.",
     "year": 1982,
     "category": "computer",
     "tags": ["8-bit", "home computer", "commodore"],
@@ -33,12 +36,15 @@
     "platform": null,
     "media": [
       {
+        "id": "B2C3D4E5-1111-2222-3333-444455556666",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Commodore-64-Computer-FL.jpg",
         "type": "image",
         "attribution": {
-          "author": "Wikimedia Commons",
-          "license": "CC BY-SA",
-          "source": "https://commons.wikimedia.org"
+          "author": "Bill Bertram",
+          "license": "CC BY-SA 2.5",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Commodore-64-Computer-FL.jpg",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5/"
         }
       }
     ]
@@ -50,17 +56,20 @@
     "description": "One of the first highly successful mass-market personal computers, released in 1977.",
     "year": 1977,
     "category": "computer",
-    "tags": ["8-bit", "home computer", "apple"],
+    "tags": ["8-bit", "apple", "home computer"],
     "company": "Apple",
     "platform": null,
     "media": [
       {
+        "id": "C3D4E5F6-1111-2222-3333-444455556666",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Apple_II.jpg",
         "type": "image",
         "attribution": {
-          "author": "Wikimedia Commons",
-          "license": "CC BY-SA",
-          "source": "https://commons.wikimedia.org"
+          "author": "Yotcm",
+          "license": "CC BY-SA 3.0",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Apple_II.jpg",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
         }
       }
     ]
@@ -69,7 +78,7 @@
     "id": "atari_800xl",
     "title": "Atari 800XL",
     "subtitle": "Atari",
-    "description": "A powerful 8-bit home computer released in 1983, popular for games and graphics capabilities.",
+    "description": "A powerful 8-bit home computer released in 1983, known for strong graphics and gaming capabilities.",
     "year": 1983,
     "category": "computer",
     "tags": ["8-bit", "atari", "home computer"],
@@ -77,12 +86,15 @@
     "platform": null,
     "media": [
       {
+        "id": "D4E5F6G7-1111-2222-3333-444455556666",
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Atari_800XL.jpg",
         "type": "image",
         "attribution": {
-          "author": "Wikimedia Commons",
-          "license": "CC BY-SA",
-          "source": "https://commons.wikimedia.org"
+          "author": "Atari Archives",
+          "license": "CC BY-SA 3.0",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Atari_800XL.jpg",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
         }
       }
     ]
@@ -91,7 +103,7 @@
     "id": "bbc_micro",
     "title": "BBC Micro",
     "subtitle": "Acorn Computers",
-    "description": "An educational computer widely used in UK schools during the 1980s.",
+    "description": "An educational 8-bit computer widely used in UK schools during the 1980s.",
     "year": 1981,
     "category": "computer",
     "tags": ["8-bit", "education", "acorn"],
@@ -99,122 +111,15 @@
     "platform": null,
     "media": [
       {
+        "id": "E5F6G7H8-1111-2222-3333-444455556666",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/BBC_Micro_Front_Restored.jpg",
         "type": "image",
         "attribution": {
-          "author": "Wikimedia Commons",
-          "license": "CC BY-SA",
-          "source": "https://commons.wikimedia.org"
-        }
-      }
-    ]
-  },
-  {
-    "id": "amstrad_cpc_464",
-    "title": "Amstrad CPC 464",
-    "subtitle": "Amstrad",
-    "description": "A popular European home computer combining keyboard, tape deck, and display capability.",
-    "year": 1984,
-    "category": "computer",
-    "tags": ["8-bit", "amstrad", "home computer"],
-    "company": "Amstrad",
-    "platform": null,
-    "media": [
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Amstrad_CPC_464.jpg",
-        "type": "image",
-        "attribution": {
-          "author": "Wikimedia Commons",
-          "license": "CC BY-SA",
-          "source": "https://commons.wikimedia.org"
-        }
-      }
-    ]
-  },
-  {
-    "id": "msx_standard",
-    "title": "MSX",
-    "subtitle": "MSX Association",
-    "description": "A standardized home computer architecture widely used in Japan and Europe in the 1980s.",
-    "year": 1983,
-    "category": "computer",
-    "tags": ["8-bit", "msx", "standard"],
-    "company": "Microsoft / ASCII",
-    "platform": null,
-    "media": [
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/MSX_Computer.jpg",
-        "type": "image",
-        "attribution": {
-          "author": "Wikimedia Commons",
-          "license": "CC BY-SA",
-          "source": "https://commons.wikimedia.org"
-        }
-      }
-    ]
-  },
-  {
-    "id": "trs_80",
-    "title": "TRS-80 Model I",
-    "subtitle": "Tandy / Radio Shack",
-    "description": "One of the earliest mass-market personal computers released in 1977.",
-    "year": 1977,
-    "category": "computer",
-    "tags": ["8-bit", "trs-80", "early pc"],
-    "company": "Tandy",
-    "platform": null,
-    "media": [
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/TRS-80_Model_1.jpg",
-        "type": "image",
-        "attribution": {
-          "author": "Wikimedia Commons",
-          "license": "CC BY-SA",
-          "source": "https://commons.wikimedia.org"
-        }
-      }
-    ]
-  },
-  {
-    "id": "commodore_pet",
-    "title": "Commodore PET",
-    "subtitle": "Commodore",
-    "description": "An early all-in-one personal computer introduced in 1977.",
-    "year": 1977,
-    "category": "computer",
-    "tags": ["early pc", "commodore"],
-    "company": "Commodore",
-    "platform": null,
-    "media": [
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Commodore_PET_2001.jpg",
-        "type": "image",
-        "attribution": {
-          "author": "Wikimedia Commons",
-          "license": "CC BY-SA",
-          "source": "https://commons.wikimedia.org"
-        }
-      }
-    ]
-  },
-  {
-    "id": "sinclair_zx81",
-    "title": "ZX81",
-    "subtitle": "Sinclair Research",
-    "description": "A very low-cost home computer released in 1981 that introduced many people to programming.",
-    "year": 1981,
-    "category": "computer",
-    "tags": ["8-bit", "sinclair", "home computer"],
-    "company": "Sinclair Research",
-    "platform": null,
-    "media": [
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/ZX81.jpg",
-        "type": "image",
-        "attribution": {
-          "author": "Wikimedia Commons",
-          "license": "CC BY-SA",
-          "source": "https://commons.wikimedia.org"
+          "author": "Bill Bertram",
+          "license": "CC BY-SA 2.5",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:BBC_Micro.jpg",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5/"
         }
       }
     ]
