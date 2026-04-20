@@ -12,7 +12,7 @@
     "media": [
       {
         "id": "c64_image_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Commodore64.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Commodore64.jpg/960px-Commodore64.jpg",
         "type": "image",
         "attribution": {
           "author": "Bill Bertram",
@@ -37,7 +37,7 @@
     "media": [
       {
         "id": "zx_spectrum_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sinclair_ZX_Spectrum.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sinclair_ZX_Spectrum.jpg/960px-Sinclair_ZX_Spectrum.jpg",
         "type": "image",
         "attribution": {
           "author": "Bill Bertram",
@@ -62,13 +62,13 @@
     "media": [
       {
         "id": "apple2_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Apple_II.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Apple_II_Plus%2C_Museum_of_the_Moving_Image.jpg/960px-Apple_II_Plus%2C_Museum_of_the_Moving_Image.jpg",
         "type": "image",
         "attribution": {
           "author": "Mblumber",
           "license": "CC BY-SA 3.0",
           "sourceName": "Wikimedia Commons",
-          "sourceURL": "https://commons.wikimedia.org/wiki/File:Apple_II.jpg",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Apple_II_Plus,_Museum_of_the_Moving_Image.jpg",
           "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
         }
       }
@@ -87,7 +87,7 @@
     "media": [
       {
         "id": "amiga500_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Amiga500_system.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amiga500_system.jpg/960px-Amiga500_system.jpg",
         "type": "image",
         "attribution": {
           "author": "Rama",
@@ -112,7 +112,7 @@
     "media": [
       {
         "id": "atari800_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Atari-800-Computer-FL.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Atari-800-Computer-FL.jpg/960px-Atari-800-Computer-FL.jpg",
         "type": "image",
         "attribution": {
           "author": "BokicaK",
@@ -137,7 +137,7 @@
     "media": [
       {
         "id": "bbc_micro_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_Micro_Front_Restored.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_Micro_Front_Restored.jpg/960px-BBC_Micro_Front_Restored.jpg",
         "type": "image",
         "attribution": {
           "author": "Simon Inns",
@@ -162,14 +162,14 @@
     "media": [
       {
         "id": "trs80_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Radio_Shack_TRS-80_Model_I.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/TRS-80_Color_Computer_2-64K.jpg/960px-TRS-80_Color_Computer_2-64K.jpg",
         "type": "image",
         "attribution": {
-          "author": "Bill Bertram",
-          "license": "CC BY-SA 2.0",
+          "author": "Germán Martínez",
+          "license": "CC BY-SA 3.0",
           "sourceName": "Wikimedia Commons",
-          "sourceURL": "https://commons.wikimedia.org/wiki/File:Radio_Shack_TRS-80_Model_I.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/"
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:TRS-80_Color_Computer_2-64K.jpg",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
         }
       }
     ]
@@ -187,7 +187,7 @@
     "media": [
       {
         "id": "cpc464_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Amstrad_CPC_464.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Amstrad_CPC_464.jpg/960px-Amstrad_CPC_464.jpg",
         "type": "image",
         "attribution": {
           "author": "Evan-Amos",
@@ -212,13 +212,13 @@
     "media": [
       {
         "id": "msx_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/MSX_Computer.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Canon_V-20_MSX_computer_%283%29.jpg/960px-Canon_V-20_MSX_computer_%283%29.jpg",
         "type": "image",
         "attribution": {
           "author": "Kuba",
           "license": "CC BY-SA 3.0",
           "sourceName": "Wikimedia Commons",
-          "sourceURL": "https://commons.wikimedia.org/wiki/File:MSX_Computer.jpg",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Canon_V-20_MSX_computer_%283%29.jpg",
           "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
         }
       }
@@ -237,14 +237,14 @@
     "media": [
       {
         "id": "pet_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Commodore_PET_2001.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Commodore_PET_2001.jpg/960px-Commodore_PET_2001.jpg",
         "type": "image",
         "attribution": {
-          "author": "Bill Bertram",
-          "license": "CC BY-SA 2.0",
+          "author": "Jean-Christophe_BENOIST",
+          "license": "CC BY 3.0",
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:Commodore_PET_2001.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/"
+          "licenseURL": "https://creativecommons.org/licenses/by/3.0/"
         }
       }
     ]
