@@ -6,7 +6,11 @@
     "description": "Released in 1982, the Commodore 64 became the best-selling single personal computer model of all time.",
     "year": 1982,
     "category": "computer",
-    "tags": ["Commodore", "8-bit", "Home Computer"],
+    "tags": [
+      "Commodore",
+      "8-bit",
+      "Home Computer"
+    ],
     "company": "Commodore",
     "platform": null,
     "media": [
@@ -19,7 +23,7 @@
           "license": "CC BY-SA 2.5",
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:Commodore64.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5/"
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5"
         }
       }
     ]
@@ -31,7 +35,11 @@
     "description": "Released in 1982, the ZX Spectrum was one of the most influential home computers in the UK.",
     "year": 1982,
     "category": "computer",
-    "tags": ["Sinclair", "8-bit", "Home Computer"],
+    "tags": [
+      "Sinclair",
+      "8-bit",
+      "Home Computer"
+    ],
     "company": "Sinclair",
     "platform": null,
     "media": [
@@ -40,11 +48,11 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sinclair_ZX_Spectrum.jpg/960px-Sinclair_ZX_Spectrum.jpg",
         "type": "image",
         "attribution": {
-          "author": "Bill Bertram",
-          "license": "CC BY-SA 2.5",
+          "author": "de:Benutzer:Doraguma",
+          "license": "CC BY-SA 3.0",
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:Sinclair_ZX_Spectrum.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5/"
+          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/"
         }
       }
     ]
@@ -56,7 +64,11 @@
     "description": "Released in 1977, the Apple II was one of the first highly successful mass-produced microcomputers.",
     "year": 1977,
     "category": "computer",
-    "tags": ["Apple", "8-bit", "Home Computer"],
+    "tags": [
+      "Apple",
+      "8-bit",
+      "Home Computer"
+    ],
     "company": "Apple",
     "platform": null,
     "media": [
@@ -65,11 +77,11 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Apple_II_Plus%2C_Museum_of_the_Moving_Image.jpg/960px-Apple_II_Plus%2C_Museum_of_the_Moving_Image.jpg",
         "type": "image",
         "attribution": {
-          "author": "Mblumber",
-          "license": "CC BY-SA 3.0",
+          "author": "Marcin Wichary",
+          "license": "CC BY 2.0",
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:Apple_II_Plus,_Museum_of_the_Moving_Image.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0"
         }
       }
     ]
@@ -81,7 +93,11 @@
     "description": "Released in 1987, the Amiga 500 became one of the most popular home computers of its era.",
     "year": 1987,
     "category": "computer",
-    "tags": ["Amiga", "16-bit", "Home Computer"],
+    "tags": [
+      "Amiga",
+      "16-bit",
+      "Home Computer"
+    ],
     "company": "Commodore",
     "platform": null,
     "media": [
@@ -90,11 +106,11 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amiga500_system.jpg/960px-Amiga500_system.jpg",
         "type": "image",
         "attribution": {
-          "author": "Rama",
-          "license": "CC BY-SA 2.0 FR",
+          "author": "Bill Bertram",
+          "license": "CC BY-SA 2.5",
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:Amiga500_system.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en"
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5"
         }
       }
     ]
@@ -106,7 +122,11 @@
     "description": "Released in 1979, the Atari 800 was part of Atari's 8-bit computer line.",
     "year": 1979,
     "category": "computer",
-    "tags": ["Atari", "8-bit", "Home Computer"],
+    "tags": [
+      "Atari",
+      "8-bit",
+      "Home Computer"
+    ],
     "company": "Atari",
     "platform": null,
     "media": [
@@ -115,11 +135,11 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Atari-800-Computer-FL.jpg/960px-Atari-800-Computer-FL.jpg",
         "type": "image",
         "attribution": {
-          "author": "BokicaK",
-          "license": "CC BY-SA 4.0",
+          "author": "Evan-Amos",
+          "license": "Public domain",
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:Atari-800-Computer-FL.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
+          "licenseURL": ""
         }
       }
     ]
@@ -131,7 +151,11 @@
     "description": "Released in 1981, the BBC Micro was widely used in UK schools.",
     "year": 1981,
     "category": "computer",
-    "tags": ["Acorn", "8-bit", "Educational"],
+    "tags": [
+      "Acorn",
+      "8-bit",
+      "Educational"
+    ],
     "company": "Acorn",
     "platform": null,
     "media": [
@@ -140,11 +164,11 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_Micro_Front_Restored.jpg/960px-BBC_Micro_Front_Restored.jpg",
         "type": "image",
         "attribution": {
-          "author": "Simon Inns",
-          "license": "CC BY-SA 3.0",
+          "author": "BBC_Micro.jpeg: Stuart Brady derivative work: Ubcule (talk)",
+          "license": "Public domain",
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:BBC_Micro_Front_Restored.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
+          "licenseURL": ""
         }
       }
     ]
@@ -156,7 +180,11 @@
     "description": "Released in 1977, the TRS-80 was one of the earliest mass-market home computers.",
     "year": 1977,
     "category": "computer",
-    "tags": ["Tandy", "8-bit", "Home Computer"],
+    "tags": [
+      "Tandy",
+      "8-bit",
+      "Home Computer"
+    ],
     "company": "Tandy",
     "platform": null,
     "media": [
@@ -165,11 +193,11 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/TRS-80_Color_Computer_2-64K.jpg/960px-TRS-80_Color_Computer_2-64K.jpg",
         "type": "image",
         "attribution": {
-          "author": "Germán Martínez",
-          "license": "CC BY-SA 3.0",
+          "author": "Lamune",
+          "license": "Copyrighted free use",
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:TRS-80_Color_Computer_2-64K.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
+          "licenseURL": ""
         }
       }
     ]
@@ -181,7 +209,11 @@
     "description": "Released in 1984, the CPC 464 was one of Amstrad's most successful computers.",
     "year": 1984,
     "category": "computer",
-    "tags": ["Amstrad", "8-bit", "Home Computer"],
+    "tags": [
+      "Amstrad",
+      "8-bit",
+      "Home Computer"
+    ],
     "company": "Amstrad",
     "platform": null,
     "media": [
@@ -190,11 +222,11 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Amstrad_CPC_464.jpg/960px-Amstrad_CPC_464.jpg",
         "type": "image",
         "attribution": {
-          "author": "Evan-Amos",
-          "license": "CC BY-SA 3.0",
+          "author": "Ismael Olea",
+          "license": "CC BY-SA 2.0",
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:Amstrad_CPC_464.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0"
         }
       }
     ]
@@ -206,7 +238,10 @@
     "description": "MSX was a standardized home computer architecture widely used in Japan and Europe.",
     "year": 1983,
     "category": "computer",
-    "tags": ["MSX", "8-bit"],
+    "tags": [
+      "MSX",
+      "8-bit"
+    ],
     "company": "Microsoft / ASCII",
     "platform": null,
     "media": [
@@ -215,11 +250,11 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Canon_V-20_MSX_computer_%283%29.jpg/960px-Canon_V-20_MSX_computer_%283%29.jpg",
         "type": "image",
         "attribution": {
-          "author": "Kuba",
-          "license": "CC BY-SA 3.0",
+          "author": "AUIC Oficial",
+          "license": "Public domain",
           "sourceName": "Wikimedia Commons",
-          "sourceURL": "https://commons.wikimedia.org/wiki/File:Canon_V-20_MSX_computer_%283%29.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/"
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Canon_V-20_MSX_computer_(3).jpg",
+          "licenseURL": ""
         }
       }
     ]
@@ -231,7 +266,11 @@
     "description": "Released in 1977, the Commodore PET was one of the first personal computers.",
     "year": 1977,
     "category": "computer",
-    "tags": ["Commodore", "8-bit", "Home Computer"],
+    "tags": [
+      "Commodore",
+      "8-bit",
+      "Home Computer"
+    ],
     "company": "Commodore",
     "platform": null,
     "media": [
@@ -240,12 +279,84 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Commodore_PET_2001.jpg/960px-Commodore_PET_2001.jpg",
         "type": "image",
         "attribution": {
-          "author": "Jean-Christophe_BENOIST",
+          "author": "Jean-Christophe BENOIST",
           "license": "CC BY 3.0",
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:Commodore_PET_2001.jpg",
-          "licenseURL": "https://creativecommons.org/licenses/by/3.0/"
+          "licenseURL": "https://creativecommons.org/licenses/by/3.0"
         }
+      }
+    ]
+  },
+  {
+    "id": "zx_spectrum",
+    "title": "ZX Spectrum",
+    "subtitle": "British home computer",
+    "description": "The ZX Spectrum, released in 1982, was one of the most popular home computers in the UK.",
+    "year": 1982,
+    "category": "computer",
+    "tags": [
+      "Sinclair",
+      "8-bit"
+    ],
+    "company": "Sinclair",
+    "platform": null,
+    "media": [
+      {
+        "id": "AABBCCDD-1111-2222-3333-444455556666",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sinclair_ZX_Spectrum.jpg",
+        "type": "image",
+        "attribution": {
+          "author": "de:Benutzer:Doraguma",
+          "license": "CC BY-SA 3.0",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Sinclair_ZX_Spectrum.jpg",
+          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/"
+        }
+      }
+    ]
+  },
+  {
+    "id": "super_mario_bros",
+    "title": "Super Mario Bros.",
+    "subtitle": "NES classic",
+    "description": "Released in 1985 for the Nintendo Entertainment System, Super Mario Bros. became one of the most iconic games ever created.",
+    "year": 1985,
+    "category": "videogame",
+    "tags": [
+      "Nintendo",
+      "Platformer"
+    ],
+    "company": "Nintendo",
+    "platform": null,
+    "media": [
+      {
+        "id": "99887766-1111-2222-3333-444455556666",
+        "url": "https://picsum.photos/400/300",
+        "type": "screenshot",
+        "attribution": null
+      }
+    ]
+  },
+  {
+    "id": "doom_1993",
+    "title": "Doom",
+    "subtitle": "Revolutionary FPS",
+    "description": "Doom, released in 1993, popularized the first-person shooter genre and introduced networked multiplayer.",
+    "year": 1993,
+    "category": "videogame",
+    "tags": [
+      "FPS",
+      "id Software"
+    ],
+    "company": "ID Software",
+    "platform": null,
+    "media": [
+      {
+        "id": "55667788-1111-2222-3333-444455556666",
+        "url": "https://picsum.photos/400/300",
+        "type": "screenshot",
+        "attribution": null
       }
     ]
   }
