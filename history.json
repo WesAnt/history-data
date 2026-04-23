@@ -13,6 +13,12 @@
     ],
     "company": "Commodore",
     "platform": null,
+    "specs": {
+      "cpu": "MOS Technology 6510 @ 1.023 MHz",
+      "ram": "64 KB",
+      "graphics": "VIC-II",
+      "sound": "SID 6581"
+    },
     "media": [
       {
         "id": "c64_image_1",
@@ -42,6 +48,12 @@
     ],
     "company": "Sinclair",
     "platform": null,
+    "specs": {
+      "cpu": "Zilog Z80A @ 3.5 MHz",
+      "ram": "16–48 KB",
+      "graphics": "ULA",
+      "sound": "1-channel beeper"
+    },
     "media": [
       {
         "id": "zx_spectrum_1",
@@ -71,6 +83,12 @@
     ],
     "company": "Apple",
     "platform": null,
+    "specs": {
+      "cpu": "MOS Technology 6502 @ 1 MHz",
+      "ram": "4–64 KB",
+      "graphics": "NTSC color graphics",
+      "sound": "1-bit speaker"
+    },
     "media": [
       {
         "id": "apple2_1",
@@ -100,6 +118,12 @@
     ],
     "company": "Commodore",
     "platform": null,
+    "specs": {
+      "cpu": "Motorola 68000 @ 7.16 MHz",
+      "ram": "512 KB (expandable)",
+      "graphics": "OCS chipset",
+      "sound": "4-channel stereo PCM"
+    },
     "media": [
       {
         "id": "amiga500_1",
@@ -129,6 +153,12 @@
     ],
     "company": "Atari",
     "platform": null,
+    "specs": {
+      "cpu": "MOS Technology 6502 @ 1.79 MHz",
+      "ram": "8–48 KB",
+      "graphics": "ANTIC + CTIA/GTIA",
+      "sound": "POKEY"
+    },
     "media": [
       {
         "id": "atari800_1",
@@ -158,6 +188,12 @@
     ],
     "company": "Acorn",
     "platform": null,
+    "specs": {
+      "cpu": "MOS Technology 6502 @ 2 MHz",
+      "ram": "16–32 KB",
+      "graphics": "Custom ULA",
+      "sound": "SN76489"
+    },
     "media": [
       {
         "id": "bbc_micro_1",
@@ -187,6 +223,12 @@
     ],
     "company": "Tandy",
     "platform": null,
+    "specs": {
+      "cpu": "Zilog Z80 @ 1.77 MHz",
+      "ram": "4–16 KB",
+      "graphics": "Text display",
+      "sound": "None"
+    },
     "media": [
       {
         "id": "trs80_1",
@@ -216,6 +258,12 @@
     ],
     "company": "Amstrad",
     "platform": null,
+    "specs": {
+      "cpu": "Zilog Z80A @ 4 MHz",
+      "ram": "64 KB",
+      "graphics": "Motorola 6845",
+      "sound": "AY-3-8912"
+    },
     "media": [
       {
         "id": "cpc464_1",
@@ -244,6 +292,12 @@
     ],
     "company": "Microsoft / ASCII",
     "platform": null,
+    "specs": {
+      "cpu": "Zilog Z80A @ 3.58 MHz",
+      "ram": "8–64 KB",
+      "graphics": "TMS9918",
+      "sound": "AY-3-8910"
+    },
     "media": [
       {
         "id": "msx_1",
@@ -273,6 +327,12 @@
     ],
     "company": "Commodore",
     "platform": null,
+    "specs": {
+      "cpu": "MOS Technology 6502 @ 1 MHz",
+      "ram": "4–32 KB",
+      "graphics": "Text display",
+      "sound": "None"
+    },
     "media": [
       {
         "id": "pet_1",
@@ -301,6 +361,12 @@
     ],
     "company": "Sinclair",
     "platform": null,
+    "specs": {
+      "cpu": "Zilog Z80A @ 3.5 MHz",
+      "ram": "16–48 KB",
+      "graphics": "ULA",
+      "sound": "1-channel beeper"
+    },
     "media": [
       {
         "id": "AABBCCDD-1111-2222-3333-444455556666",
@@ -329,6 +395,7 @@
     ],
     "company": "Nintendo",
     "platform": null,
+    "specs": null,
     "media": [
       {
         "id": "99887766-1111-2222-3333-444455556666",
@@ -351,6 +418,7 @@
     ],
     "company": "ID Software",
     "platform": null,
+    "specs": null,
     "media": [
       {
         "id": "55667788-1111-2222-3333-444455556666",
