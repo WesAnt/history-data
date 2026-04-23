@@ -348,16 +348,34 @@
       }
     ]
   },
-  {
+{
     "id": "ibm_pc_5150",
     "title": "IBM PC 5150",
     "subtitle": "The original IBM PC",
     "description": "Released in 1981, the IBM PC 5150 established the standard for personal computers and compatibles.",
     "year": 1981,
     "category": "computer",
-    "tags": ["IBM", "16-bit", "PC"],
+    "tags": [
+      "IBM",
+      "16-bit",
+      "PC"
+    ],
     "company": "IBM",
     "platform": null,
+    "media": [
+      {
+        "id": "ibm_pc_1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/IBM_PC_5150.jpg/960px-IBM_PC_5150.jpg",
+        "type": "image",
+        "attribution": {
+          "author": "Unknown",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:IBM_PC_5150.jpg"
+        }
+      }
+    ],
     "specs": {
       "cpu": "Intel 8088 @ 4.77 MHz",
       "ram": "16 KB – 640 KB",
@@ -372,9 +390,26 @@
     "description": "Released in 1984, the Macintosh 128K popularized the graphical user interface and mouse.",
     "year": 1984,
     "category": "computer",
-    "tags": ["Apple", "GUI"],
+    "tags": [
+      "Apple",
+      "GUI"
+    ],
     "company": "Apple",
     "platform": null,
+    "media": [
+      {
+        "id": "mac128k_1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Macintosh_128k_transparency.png/960px-Macintosh_128k_transparency.png",
+        "type": "image",
+        "attribution": {
+          "author": "w:Grm wnr",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Macintosh_128k_transparency.png"
+        }
+      }
+    ],
     "specs": {
       "cpu": "Motorola 68000 @ 8 MHz",
       "ram": "128 KB",
@@ -386,46 +421,91 @@
     "id": "sinclair_ql",
     "title": "Sinclair QL",
     "subtitle": "Advanced UK microcomputer",
-    "description": "Released in 1984, the Sinclair QL was aimed at business users with a 68000 CPU.",
+    "description": "Released in 1984, the Sinclair QL was aimed at business users.",
     "year": 1984,
     "category": "computer",
-    "tags": ["Sinclair", "16-bit"],
+    "tags": [
+      "Sinclair",
+      "16-bit"
+    ],
     "company": "Sinclair",
     "platform": null,
+    "media": [
+      {
+        "id": "ql_1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sinclair_QL.jpg/960px-Sinclair_QL.jpg",
+        "type": "image",
+        "attribution": {
+          "author": "Jamesfcarter",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Sinclair_QL.jpg"
+        }
+      }
+    ],
     "specs": {
       "cpu": "Motorola 68008 @ 7.5 MHz",
       "ram": "128 KB",
       "graphics": "512×256",
-      "sound": "1-channel beeper"
+      "sound": "Beeper"
     }
   },
   {
     "id": "sharp_x68000",
     "title": "Sharp X68000",
     "subtitle": "Arcade-quality home computer",
-    "description": "Released in 1987, the X68000 was known for near-arcade perfect ports.",
+    "description": "Released in 1987, the X68000 was famous for arcade-perfect ports.",
     "year": 1987,
     "category": "computer",
-    "tags": ["Sharp", "16-bit"],
+    "tags": [
+      "Sharp",
+      "16-bit"
+    ],
     "company": "Sharp",
     "platform": null,
+    "media": [
+      {
+        "id": "x68000_1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sharp_X68000.jpg/960px-Sharp_X68000.jpg",
+        "type": "image",
+        "attribution": null
+      }
+    ],
     "specs": {
       "cpu": "Motorola 68000 @ 10 MHz",
       "ram": "1 MB",
-      "graphics": "Sprite-based hardware",
-      "sound": "Yamaha YM2151"
+      "graphics": "Sprite hardware",
+      "sound": "YM2151"
     }
   },
   {
     "id": "neo_geo_aes",
     "title": "Neo Geo AES",
     "subtitle": "Home arcade system",
-    "description": "Released in 1990, the Neo Geo AES delivered arcade-quality games at home.",
+    "description": "Released in 1990, the Neo Geo AES delivered arcade-quality gaming at home.",
     "year": 1990,
     "category": "computer",
-    "tags": ["SNK", "Arcade"],
+    "tags": [
+      "SNK",
+      "Arcade"
+    ],
     "company": "SNK",
     "platform": null,
+    "media": [
+      {
+        "id": "neo_geo_1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Neo-Geo-AES-Console-Set.png/960px-Neo-Geo-AES-Console-Set.png",
+        "type": "image",
+        "attribution": {
+          "author": "Evan-Amos",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Neo-Geo-AES-Console-Set.png"
+        }
+      }
+    ],
     "specs": {
       "cpu": "Motorola 68000 @ 12 MHz",
       "ram": "64 KB",
@@ -437,63 +517,131 @@
     "id": "sega_master_system",
     "title": "Sega Master System",
     "subtitle": "8-bit console",
-    "description": "Released in 1985, Sega's Master System competed with the NES.",
+    "description": "Released in 1985, the Master System was Sega’s answer to the NES.",
     "year": 1985,
     "category": "computer",
-    "tags": ["Sega", "8-bit"],
+    "tags": [
+      "Sega",
+      "8-bit"
+    ],
     "company": "Sega",
     "platform": null,
+    "media": [
+      {
+        "id": "sms_1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sega-Master-System-Set.jpg/960px-Sega-Master-System-Set.jpg",
+        "type": "image",
+        "attribution": {
+          "author": "Evan-Amos",
+          "license": "Public domain",
+          "licenseURL": "",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Sega-Master-System-Set.jpg"
+        }
+      }
+    ],
     "specs": {
       "cpu": "Zilog Z80 @ 3.58 MHz",
       "ram": "8 KB",
       "graphics": "256×192",
-      "sound": "SN76489 PSG"
+      "sound": "SN76489"
     }
   },
   {
     "id": "nes",
     "title": "Nintendo Entertainment System",
     "subtitle": "Iconic 8-bit console",
-    "description": "Released in 1983, the NES revitalized the video game industry.",
+    "description": "Released in 1983, the NES revitalized the gaming industry.",
     "year": 1983,
     "category": "computer",
-    "tags": ["Nintendo", "8-bit"],
+    "tags": [
+      "Nintendo",
+      "8-bit"
+    ],
     "company": "Nintendo",
     "platform": null,
+    "media": [
+      {
+        "id": "nes_1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NES-Console-Set.png/960px-NES-Console-Set.png",
+        "type": "image",
+        "attribution": {
+          "author": "Evan-Amos",
+          "license": "Public domain",
+          "licenseURL": "",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:NES-Console-Set.png"
+        }
+      }
+    ],
     "specs": {
-      "cpu": "Ricoh 2A03 @ 1.79 MHz",
+      "cpu": "Ricoh 2A03",
       "ram": "2 KB",
       "graphics": "256×240",
-      "sound": "5-channel audio"
+      "sound": "5-channel"
     }
   },
   {
     "id": "game_boy",
     "title": "Game Boy",
-    "subtitle": "Handheld gaming system",
-    "description": "Released in 1989, the Game Boy became one of the most successful handheld consoles ever.",
+    "subtitle": "Handheld system",
+    "description": "Released in 1989, the Game Boy became a global success.",
     "year": 1989,
     "category": "computer",
-    "tags": ["Nintendo", "Handheld"],
+    "tags": [
+      "Nintendo",
+      "Handheld"
+    ],
     "company": "Nintendo",
     "platform": null,
+    "media": [
+      {
+        "id": "gb_1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Game-Boy-FL.png/960px-Game-Boy-FL.png",
+        "type": "image",
+        "attribution": {
+          "author": "Transfrom JPEG version and remove white background. Original by Evan-Amos.",
+          "license": "Public domain",
+          "licenseURL": "",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Game-Boy-FL.png"
+        }
+      }
+    ],
     "specs": {
-      "cpu": "Sharp LR35902 @ 4.19 MHz",
+      "cpu": "LR35902 @ 4.19 MHz",
       "ram": "8 KB",
       "graphics": "160×144",
-      "sound": "4-channel stereo"
+      "sound": "4-channel"
     }
   },
   {
     "id": "atari_st",
     "title": "Atari ST",
-    "subtitle": "Affordable 16-bit computer",
-    "description": "Released in 1985, the Atari ST was popular for music production and gaming.",
+    "subtitle": "16-bit home computer",
+    "description": "Released in 1985, the Atari ST was widely used in music production.",
     "year": 1985,
     "category": "computer",
-    "tags": ["Atari", "16-bit"],
+    "tags": [
+      "Atari",
+      "16-bit"
+    ],
     "company": "Atari",
     "platform": null,
+    "media": [
+      {
+        "id": "st_1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Atari_1040STf.jpg/960px-Atari_1040STf.jpg",
+        "type": "image",
+        "attribution": {
+          "author": "© Bill Bertram, 2006",
+          "license": "CC BY-SA 2.5",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Atari_1040STf.jpg"
+        }
+      }
+    ],
     "specs": {
       "cpu": "Motorola 68000 @ 8 MHz",
       "ram": "512 KB",
@@ -505,12 +653,29 @@
     "id": "zx81",
     "title": "ZX81",
     "subtitle": "Ultra-low-cost computer",
-    "description": "Released in 1981, the ZX81 was a very affordable home computer.",
+    "description": "Released in 1981, the ZX81 made computing affordable.",
     "year": 1981,
     "category": "computer",
-    "tags": ["Sinclair", "8-bit"],
+    "tags": [
+      "Sinclair",
+      "8-bit"
+    ],
     "company": "Sinclair",
     "platform": null,
+    "media": [
+      {
+        "id": "zx81_1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sinclair_ZX81.jpg/960px-Sinclair_ZX81.jpg",
+        "type": "image",
+        "attribution": {
+          "author": "Journey234",
+          "license": "Public domain",
+          "licenseURL": "",
+          "sourceName": "Wikimedia Commons",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Sinclair_ZX81.jpg"
+        }
+      }
+    ],
     "specs": {
       "cpu": "Zilog Z80 @ 3.25 MHz",
       "ram": "1 KB",
