@@ -349,6 +349,176 @@
     ]
   },
   {
+    "id": "ibm_pc_5150",
+    "title": "IBM PC 5150",
+    "subtitle": "The original IBM PC",
+    "description": "Released in 1981, the IBM PC 5150 established the standard for personal computers and compatibles.",
+    "year": 1981,
+    "category": "computer",
+    "tags": ["IBM", "16-bit", "PC"],
+    "company": "IBM",
+    "platform": null,
+    "specs": {
+      "cpu": "Intel 8088 @ 4.77 MHz",
+      "ram": "16 KB – 640 KB",
+      "graphics": "CGA",
+      "sound": "PC speaker"
+    }
+  },
+  {
+    "id": "macintosh_128k",
+    "title": "Macintosh 128K",
+    "subtitle": "First Apple Macintosh",
+    "description": "Released in 1984, the Macintosh 128K popularized the graphical user interface and mouse.",
+    "year": 1984,
+    "category": "computer",
+    "tags": ["Apple", "GUI"],
+    "company": "Apple",
+    "platform": null,
+    "specs": {
+      "cpu": "Motorola 68000 @ 8 MHz",
+      "ram": "128 KB",
+      "graphics": "512×342 monochrome",
+      "sound": "8-bit mono"
+    }
+  },
+  {
+    "id": "sinclair_ql",
+    "title": "Sinclair QL",
+    "subtitle": "Advanced UK microcomputer",
+    "description": "Released in 1984, the Sinclair QL was aimed at business users with a 68000 CPU.",
+    "year": 1984,
+    "category": "computer",
+    "tags": ["Sinclair", "16-bit"],
+    "company": "Sinclair",
+    "platform": null,
+    "specs": {
+      "cpu": "Motorola 68008 @ 7.5 MHz",
+      "ram": "128 KB",
+      "graphics": "512×256",
+      "sound": "1-channel beeper"
+    }
+  },
+  {
+    "id": "sharp_x68000",
+    "title": "Sharp X68000",
+    "subtitle": "Arcade-quality home computer",
+    "description": "Released in 1987, the X68000 was known for near-arcade perfect ports.",
+    "year": 1987,
+    "category": "computer",
+    "tags": ["Sharp", "16-bit"],
+    "company": "Sharp",
+    "platform": null,
+    "specs": {
+      "cpu": "Motorola 68000 @ 10 MHz",
+      "ram": "1 MB",
+      "graphics": "Sprite-based hardware",
+      "sound": "Yamaha YM2151"
+    }
+  },
+  {
+    "id": "neo_geo_aes",
+    "title": "Neo Geo AES",
+    "subtitle": "Home arcade system",
+    "description": "Released in 1990, the Neo Geo AES delivered arcade-quality games at home.",
+    "year": 1990,
+    "category": "computer",
+    "tags": ["SNK", "Arcade"],
+    "company": "SNK",
+    "platform": null,
+    "specs": {
+      "cpu": "Motorola 68000 @ 12 MHz",
+      "ram": "64 KB",
+      "graphics": "4096 colors",
+      "sound": "YM2610"
+    }
+  },
+  {
+    "id": "sega_master_system",
+    "title": "Sega Master System",
+    "subtitle": "8-bit console",
+    "description": "Released in 1985, Sega's Master System competed with the NES.",
+    "year": 1985,
+    "category": "computer",
+    "tags": ["Sega", "8-bit"],
+    "company": "Sega",
+    "platform": null,
+    "specs": {
+      "cpu": "Zilog Z80 @ 3.58 MHz",
+      "ram": "8 KB",
+      "graphics": "256×192",
+      "sound": "SN76489 PSG"
+    }
+  },
+  {
+    "id": "nes",
+    "title": "Nintendo Entertainment System",
+    "subtitle": "Iconic 8-bit console",
+    "description": "Released in 1983, the NES revitalized the video game industry.",
+    "year": 1983,
+    "category": "computer",
+    "tags": ["Nintendo", "8-bit"],
+    "company": "Nintendo",
+    "platform": null,
+    "specs": {
+      "cpu": "Ricoh 2A03 @ 1.79 MHz",
+      "ram": "2 KB",
+      "graphics": "256×240",
+      "sound": "5-channel audio"
+    }
+  },
+  {
+    "id": "game_boy",
+    "title": "Game Boy",
+    "subtitle": "Handheld gaming system",
+    "description": "Released in 1989, the Game Boy became one of the most successful handheld consoles ever.",
+    "year": 1989,
+    "category": "computer",
+    "tags": ["Nintendo", "Handheld"],
+    "company": "Nintendo",
+    "platform": null,
+    "specs": {
+      "cpu": "Sharp LR35902 @ 4.19 MHz",
+      "ram": "8 KB",
+      "graphics": "160×144",
+      "sound": "4-channel stereo"
+    }
+  },
+  {
+    "id": "atari_st",
+    "title": "Atari ST",
+    "subtitle": "Affordable 16-bit computer",
+    "description": "Released in 1985, the Atari ST was popular for music production and gaming.",
+    "year": 1985,
+    "category": "computer",
+    "tags": ["Atari", "16-bit"],
+    "company": "Atari",
+    "platform": null,
+    "specs": {
+      "cpu": "Motorola 68000 @ 8 MHz",
+      "ram": "512 KB",
+      "graphics": "320×200",
+      "sound": "YM2149"
+    }
+  },
+  {
+    "id": "zx81",
+    "title": "ZX81",
+    "subtitle": "Ultra-low-cost computer",
+    "description": "Released in 1981, the ZX81 was a very affordable home computer.",
+    "year": 1981,
+    "category": "computer",
+    "tags": ["Sinclair", "8-bit"],
+    "company": "Sinclair",
+    "platform": null,
+    "specs": {
+      "cpu": "Zilog Z80 @ 3.25 MHz",
+      "ram": "1 KB",
+      "graphics": "Text-based",
+      "sound": "None"
+    }
+  },
+  {
     "id": "super_mario_bros",
     "title": "Super Mario Bros.",
     "subtitle": "NES classic",
