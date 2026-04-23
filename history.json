@@ -57,7 +57,7 @@
     "media": [
       {
         "id": "zx_spectrum_1",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sinclair_ZX_Spectrum.jpg/960px-Sinclair_ZX_Spectrum.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sinclair_ZX_Spectrum.jpg",
         "type": "image",
         "attribution": {
           "author": "de:Benutzer:Doraguma",
@@ -344,40 +344,6 @@
           "sourceName": "Wikimedia Commons",
           "sourceURL": "https://commons.wikimedia.org/wiki/File:Commodore_PET_2001.jpg",
           "licenseURL": "https://creativecommons.org/licenses/by/3.0"
-        }
-      }
-    ]
-  },
-  {
-    "id": "zx_spectrum",
-    "title": "ZX Spectrum",
-    "subtitle": "British home computer",
-    "description": "The ZX Spectrum, released in 1982, was one of the most popular home computers in the UK.",
-    "year": 1982,
-    "category": "computer",
-    "tags": [
-      "Sinclair",
-      "8-bit"
-    ],
-    "company": "Sinclair",
-    "platform": null,
-    "specs": {
-      "cpu": "Zilog Z80A @ 3.5 MHz",
-      "ram": "16–48 KB",
-      "graphics": "ULA",
-      "sound": "1-channel beeper"
-    },
-    "media": [
-      {
-        "id": "AABBCCDD-1111-2222-3333-444455556666",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sinclair_ZX_Spectrum.jpg",
-        "type": "image",
-        "attribution": {
-          "author": "de:Benutzer:Doraguma",
-          "license": "CC BY-SA 3.0",
-          "sourceName": "Wikimedia Commons",
-          "sourceURL": "https://commons.wikimedia.org/wiki/File:Sinclair_ZX_Spectrum.jpg",
-          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/"
         }
       }
     ]
