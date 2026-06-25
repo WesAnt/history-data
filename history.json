@@ -727,13 +727,13 @@
     "media": [
       {
         "id": "smb_cover",
-        "url": "co5k7b",
+        "url": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5k7b.jpg",
         "type": "image",
         "attribution": null
       },
       {
       "id": "smb_screen_1",
-      "url": "scknvr",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scknvr.jpg",
       "type": "screenshot"
     }
     ]
@@ -755,8 +755,14 @@
     "specs": null,
     "media": [
       {
-        "id": "55667788-1111-2222-3333-444455556666",
-        "url": "https://picsum.photos/400/300",
+        "id": "doom_cover",
+        "url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6vy4.jpg",
+        "type": "screenshot",
+        "attribution": null
+      },
+      {
+        "id": "doom_screen_1",
+        "url": "https://images.igdb.com/igdb/image/upload/t_thumb/scvfy0.jpg",
         "type": "screenshot",
         "attribution": null
       }
