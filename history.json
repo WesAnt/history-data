@@ -756,13 +756,13 @@
     "media": [
       {
         "id": "doom_cover",
-        "url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6vy4.jpg",
-        "type": "screenshot",
+        "url": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6vy4.jpg",
+        "type": "image",
         "attribution": null
       },
       {
         "id": "doom_screen_1",
-        "url": "https://images.igdb.com/igdb/image/upload/t_thumb/scvfy0.jpg",
+        "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scvfy0.jpg",
         "type": "screenshot",
         "attribution": null
       }
