@@ -727,13 +727,13 @@
     "media": [
       {
         "id": "smb_cover",
-        "url": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5k7b.jpg",
+        "url": "co5k7b",
         "type": "image",
         "attribution": null
       },
       {
       "id": "smb_screen_1",
-      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scknvq.jpg",
+      "url": "scknvr",
       "type": "screenshot"
     }
     ]
