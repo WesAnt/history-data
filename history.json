@@ -735,6 +735,16 @@
       "id": "smb_screen_1",
       "igdbImageId": "scknvr",
       "type": "screenshot"
+    },
+      {
+      "id": "smb_screen_2",
+      "igdbImageId": "scknvq",
+      "type": "screenshot"
+    },
+      {
+      "id": "smb_screen_3",
+      "igdbImageId": "scknvs",
+      "type": "screenshot"
     }
     ]
   },
@@ -763,6 +773,18 @@
       {
         "id": "doom_screen_1",
         "igdbImageId": "scvfy0",
+        "type": "screenshot",
+        "attribution": null
+      },
+      {
+        "id": "doom_screen_2",
+        "igdbImageId": "scvfy1",
+        "type": "screenshot",
+        "attribution": null
+      },
+      {
+        "id": "doom_screen_3",
+        "igdbImageId": "scvfxz",
         "type": "screenshot",
         "attribution": null
       }
