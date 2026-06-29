@@ -1,0 +1,83 @@
+[
+    {
+        "id": "super_mario_bros",
+        "title": "Super Mario Bros.",
+        "subtitle": "NES classic",
+        "description": "Released in 1985 for the Nintendo Entertainment System, Super Mario Bros. became one of the most iconic games ever created.",
+        "year": 1985,
+        "releaseDate": "1985-09-13",
+        "category": "videogame",
+        "tags": [
+            "Nintendo",
+            "Platformer"
+        ],
+        "company": "Nintendo",
+        "platform": null,
+        "specs": null,
+        "media": [
+            {
+                "id": "smb_cover",
+                "igdbImageId": "co5k7b",
+                "type": "cover",
+                "attribution": null
+            },
+            {
+                "id": "smb_screen_1",
+                "igdbImageId": "scknvr",
+                "type": "screenshot"
+            },
+            {
+                "id": "smb_screen_2",
+                "igdbImageId": "scknvq",
+                "type": "screenshot"
+            },
+            {
+                "id": "smb_screen_3",
+                "igdbImageId": "scknvs",
+                "type": "screenshot"
+            }
+        ]
+    },
+    {
+        "id": "doom_1993",
+        "title": "Doom",
+        "subtitle": "Revolutionary FPS",
+        "description": "Doom, released in 1993, popularized the first-person shooter genre and introduced networked multiplayer.",
+        "year": 1993,
+        "releaseDate": "1993-12-10",
+        "category": "videogame",
+        "tags": [
+            "FPS",
+            "id Software"
+        ],
+        "company": "ID Software",
+        "platform": null,
+        "specs": null,
+        "media": [
+            {
+                "id": "doom_cover",
+                "igdbImageId": "co6vy4",
+                "type": "cover",
+                "attribution": null
+            },
+            {
+                "id": "doom_screen_1",
+                "igdbImageId": "scvfy0",
+                "type": "screenshot",
+                "attribution": null
+            },
+            {
+                "id": "doom_screen_2",
+                "igdbImageId": "scvfy1",
+                "type": "screenshot",
+                "attribution": null
+            },
+            {
+                "id": "doom_screen_3",
+                "igdbImageId": "scvfxz",
+                "type": "screenshot",
+                "attribution": null
+            }
+        ]
+    }
+]

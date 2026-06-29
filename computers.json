@@ -1,0 +1,712 @@
+[
+    {
+        "id": "commodore_64",
+        "title": "Commodore 64",
+        "subtitle": "Best-selling home computer",
+        "description": "Released in 1982, the Commodore 64 became the best-selling single personal computer model of all time.",
+        "year": 1982,
+        "releaseDate": "1982-08-01",
+        "category": "computer",
+        "tags": [
+            "Commodore",
+            "8-bit",
+            "Home Computer"
+        ],
+        "company": "Commodore",
+        "platform": null,
+        "specs": {
+            "cpu": "MOS Technology 6510 @ 1.023 MHz",
+            "ram": "64 KB",
+            "graphics": "VIC-II",
+            "sound": "SID 6581"
+        },
+        "media": [
+            {
+                "id": "c64_image_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Commodore64.jpg/960px-Commodore64.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Bill Bertram",
+                    "license": "CC BY-SA 2.5",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Commodore64.jpg",
+                    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5"
+                }
+            }
+        ]
+    },
+    {
+        "id": "zx_spectrum",
+        "title": "ZX Spectrum",
+        "subtitle": "British home computer",
+        "description": "Released in 1982, the ZX Spectrum was one of the most influential home computers in the UK.",
+        "year": 1982,
+        "releaseDate": "1982-04-23",
+        "category": "computer",
+        "tags": [
+            "Sinclair",
+            "8-bit",
+            "Home Computer"
+        ],
+        "company": "Sinclair",
+        "platform": null,
+        "specs": {
+            "cpu": "Zilog Z80A @ 3.5 MHz",
+            "ram": "16–48 KB",
+            "graphics": "ULA",
+            "sound": "1-channel beeper"
+        },
+        "media": [
+            {
+                "id": "zx_spectrum_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sinclair_ZX_Spectrum.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "de:Benutzer:Doraguma",
+                    "license": "CC BY-SA 3.0",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sinclair_ZX_Spectrum.jpg",
+                    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/"
+                }
+            }
+        ]
+    },
+    {
+        "id": "apple_ii",
+        "title": "Apple II",
+        "subtitle": "Early Apple home computer",
+        "description": "Released in 1977, the Apple II was one of the first highly successful mass-produced microcomputers.",
+        "year": 1977,
+        "releaseDate": "1977-04-16",
+        "category": "computer",
+        "tags": [
+            "Apple",
+            "8-bit",
+            "Home Computer"
+        ],
+        "company": "Apple",
+        "platform": null,
+        "specs": {
+            "cpu": "MOS Technology 6502 @ 1 MHz",
+            "ram": "4–64 KB",
+            "graphics": "NTSC color graphics",
+            "sound": "1-bit speaker"
+        },
+        "media": [
+            {
+                "id": "apple2_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Apple_II_Plus%2C_Museum_of_the_Moving_Image.jpg/960px-Apple_II_Plus%2C_Museum_of_the_Moving_Image.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Marcin Wichary",
+                    "license": "CC BY 2.0",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Apple_II_Plus,_Museum_of_the_Moving_Image.jpg",
+                    "licenseURL": "https://creativecommons.org/licenses/by/2.0"
+                }
+            }
+        ]
+    },
+    {
+        "id": "amiga_500",
+        "title": "Amiga 500",
+        "subtitle": "Classic multimedia computer",
+        "description": "Released in 1987, the Amiga 500 became one of the most popular home computers of its era.",
+        "year": 1987,
+        "releaseDate": "1987-04-01",
+        "category": "computer",
+        "tags": [
+            "Amiga",
+            "16-bit",
+            "Home Computer"
+        ],
+        "company": "Commodore",
+        "platform": null,
+        "specs": {
+            "cpu": "Motorola 68000 @ 7.16 MHz",
+            "ram": "512 KB (expandable)",
+            "graphics": "OCS chipset",
+            "sound": "4-channel stereo PCM"
+        },
+        "media": [
+            {
+                "id": "amiga500_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amiga500_system.jpg/960px-Amiga500_system.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Bill Bertram",
+                    "license": "CC BY-SA 2.5",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Amiga500_system.jpg",
+                    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5"
+                }
+            }
+        ]
+    },
+    {
+        "id": "atari_800",
+        "title": "Atari 800",
+        "subtitle": "Early 8-bit home computer",
+        "description": "Released in 1979, the Atari 800 was part of Atari's 8-bit computer line.",
+        "year": 1979,
+        "releaseDate": "1979-11-01",
+        "category": "computer",
+        "tags": [
+            "Atari",
+            "8-bit",
+            "Home Computer"
+        ],
+        "company": "Atari",
+        "platform": null,
+        "specs": {
+            "cpu": "MOS Technology 6502 @ 1.79 MHz",
+            "ram": "8–48 KB",
+            "graphics": "ANTIC + CTIA/GTIA",
+            "sound": "POKEY"
+        },
+        "media": [
+            {
+                "id": "atari800_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Atari-800-Computer-FL.jpg/960px-Atari-800-Computer-FL.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Evan-Amos",
+                    "license": "Public domain",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Atari-800-Computer-FL.jpg",
+                    "licenseURL": ""
+                }
+            }
+        ]
+    },
+    {
+        "id": "bbc_micro",
+        "title": "BBC Micro",
+        "subtitle": "Educational computer",
+        "description": "Released in 1981, the BBC Micro was widely used in UK schools.",
+        "year": 1981,
+        "releaseDate": "1981-12-01",
+        "category": "computer",
+        "tags": [
+            "Acorn",
+            "8-bit",
+            "Educational"
+        ],
+        "company": "Acorn",
+        "platform": null,
+        "specs": {
+            "cpu": "MOS Technology 6502 @ 2 MHz",
+            "ram": "16–32 KB",
+            "graphics": "Custom ULA",
+            "sound": "SN76489"
+        },
+        "media": [
+            {
+                "id": "bbc_micro_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_Micro_Front_Restored.jpg/960px-BBC_Micro_Front_Restored.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "BBC_Micro.jpeg: Stuart Brady derivative work: Ubcule (talk)",
+                    "license": "Public domain",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:BBC_Micro_Front_Restored.jpg",
+                    "licenseURL": ""
+                }
+            }
+        ]
+    },
+    {
+        "id": "trs_80",
+        "title": "TRS-80",
+        "subtitle": "Tandy Radio Shack computer",
+        "description": "Released in 1977, the TRS-80 was one of the earliest mass-market home computers.",
+        "year": 1977,
+        "releaseDate": "1977-08-03",
+        "category": "computer",
+        "tags": [
+            "Tandy",
+            "8-bit",
+            "Home Computer"
+        ],
+        "company": "Tandy",
+        "platform": null,
+        "specs": {
+            "cpu": "Zilog Z80 @ 1.77 MHz",
+            "ram": "4–16 KB",
+            "graphics": "Text display",
+            "sound": "None"
+        },
+        "media": [
+            {
+                "id": "trs80_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/TRS-80_Color_Computer_2-64K.jpg/960px-TRS-80_Color_Computer_2-64K.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Lamune",
+                    "license": "Copyrighted free use",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:TRS-80_Color_Computer_2-64K.jpg",
+                    "licenseURL": ""
+                }
+            }
+        ]
+    },
+    {
+        "id": "amstrad_cpc_464",
+        "title": "Amstrad CPC 464",
+        "subtitle": "Popular UK home computer",
+        "description": "Released in 1984, the CPC 464 was one of Amstrad's most successful computers.",
+        "year": 1984,
+        "releaseDate": "1984-06-21",
+        "category": "computer",
+        "tags": [
+            "Amstrad",
+            "8-bit",
+            "Home Computer"
+        ],
+        "company": "Amstrad",
+        "platform": null,
+        "specs": {
+            "cpu": "Zilog Z80A @ 4 MHz",
+            "ram": "64 KB",
+            "graphics": "Motorola 6845",
+            "sound": "AY-3-8912"
+        },
+        "media": [
+            {
+                "id": "cpc464_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Amstrad_CPC_464.jpg/960px-Amstrad_CPC_464.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Ismael Olea",
+                    "license": "CC BY-SA 2.0",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Amstrad_CPC_464.jpg",
+                    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0"
+                }
+            }
+        ]
+    },
+    {
+        "id": "msx",
+        "title": "MSX",
+        "subtitle": "Standardized home computer system",
+        "description": "MSX was a standardized home computer architecture widely used in Japan and Europe.",
+        "year": 1983,
+        "releaseDate": "1983-06-16",
+        "category": "computer",
+        "tags": [
+            "MSX",
+            "8-bit"
+        ],
+        "company": "Microsoft / ASCII",
+        "platform": null,
+        "specs": {
+            "cpu": "Zilog Z80A @ 3.58 MHz",
+            "ram": "8–64 KB",
+            "graphics": "TMS9918",
+            "sound": "AY-3-8910"
+        },
+        "media": [
+            {
+                "id": "msx_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Canon_V-20_MSX_computer_%283%29.jpg/960px-Canon_V-20_MSX_computer_%283%29.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "AUIC Oficial",
+                    "license": "Public domain",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Canon_V-20_MSX_computer_(3).jpg",
+                    "licenseURL": ""
+                }
+            }
+        ]
+    },
+    {
+        "id": "commodore_pet",
+        "title": "Commodore PET",
+        "subtitle": "Early personal computer",
+        "description": "Released in 1977, the Commodore PET was one of the first personal computers.",
+        "year": 1977,
+        "releaseDate": "1977-01-01",
+        "category": "computer",
+        "tags": [
+            "Commodore",
+            "8-bit",
+            "Home Computer"
+        ],
+        "company": "Commodore",
+        "platform": null,
+        "specs": {
+            "cpu": "MOS Technology 6502 @ 1 MHz",
+            "ram": "4–32 KB",
+            "graphics": "Text display",
+            "sound": "None"
+        },
+        "media": [
+            {
+                "id": "pet_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Commodore_PET_2001.jpg/960px-Commodore_PET_2001.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Jean-Christophe BENOIST",
+                    "license": "CC BY 3.0",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Commodore_PET_2001.jpg",
+                    "licenseURL": "https://creativecommons.org/licenses/by/3.0"
+                }
+            }
+        ]
+    },
+    {
+        "id": "ibm_pc_5150",
+        "title": "IBM PC 5150",
+        "subtitle": "The original IBM PC",
+        "description": "Released in 1981, the IBM PC 5150 established the standard for personal computers and compatibles.",
+        "year": 1981,
+        "releaseDate": "1981-08-12",
+        "category": "computer",
+        "tags": [
+            "IBM",
+            "16-bit",
+            "PC"
+        ],
+        "company": "IBM",
+        "platform": null,
+        "media": [
+            {
+                "id": "ibm_pc_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IBM_PC_5150.jpg/960px-IBM_PC_5150.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Unknown",
+                    "license": "CC BY-SA 3.0",
+                    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:IBM_PC_5150.jpg"
+                }
+            }
+        ],
+        "specs": {
+            "cpu": "Intel 8088 @ 4.77 MHz",
+            "ram": "16 KB – 640 KB",
+            "graphics": "CGA",
+            "sound": "PC speaker"
+        }
+    },
+    {
+        "id": "macintosh_128k",
+        "title": "Macintosh 128K",
+        "subtitle": "First Apple Macintosh",
+        "description": "Released in 1984, the Macintosh 128K popularized the graphical user interface and mouse.",
+        "year": 1984,
+        "releaseDate": "1984-01-24",
+        "category": "computer",
+        "tags": [
+            "Apple",
+            "GUI"
+        ],
+        "company": "Apple",
+        "platform": null,
+        "media": [
+            {
+                "id": "mac128k_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Macintosh_128k_transparency.png",
+                "type": "image",
+                "attribution": {
+                    "author": "w:Grm wnr",
+                    "license": "CC BY-SA 3.0",
+                    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Macintosh_128k_transparency.png"
+                }
+            }
+        ],
+        "specs": {
+            "cpu": "Motorola 68000 @ 8 MHz",
+            "ram": "128 KB",
+            "graphics": "512×342 monochrome",
+            "sound": "8-bit mono"
+        }
+    },
+    {
+        "id": "sinclair_ql",
+        "title": "Sinclair QL",
+        "subtitle": "Advanced UK microcomputer",
+        "description": "Released in 1984, the Sinclair QL was aimed at business users.",
+        "year": 1984,
+        "releaseDate": "1984-01-12",
+        "category": "computer",
+        "tags": [
+            "Sinclair",
+            "16-bit"
+        ],
+        "company": "Sinclair",
+        "platform": null,
+        "media": [
+            {
+                "id": "ql_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sinclair_QL.jpg/960px-Sinclair_QL.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Jamesfcarter",
+                    "license": "CC BY-SA 4.0",
+                    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sinclair_QL.jpg"
+                }
+            }
+        ],
+        "specs": {
+            "cpu": "Motorola 68008 @ 7.5 MHz",
+            "ram": "128 KB",
+            "graphics": "512×256",
+            "sound": "Beeper"
+        }
+    },
+    {
+        "id": "sharp_x68000",
+        "title": "Sharp X68000",
+        "subtitle": "Arcade-quality home computer",
+        "description": "Released in 1987, the X68000 was famous for arcade-perfect ports.",
+        "year": 1987,
+        "releaseDate": "1987-03-28",
+        "category": "computer",
+        "tags": [
+            "Sharp",
+            "16-bit"
+        ],
+        "company": "Sharp",
+        "platform": null,
+        "media": [
+            {
+                "id": "x68000_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sharp_X68030_and_X68000_Expert.jpg/960px-Sharp_X68030_and_X68000_Expert.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Manupkp",
+                    "license": "CC BY-SA 4.0",
+                    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sharp_X68030_and_X68000_Expert.jpg"
+                }
+            }
+        ],
+        "specs": {
+            "cpu": "Motorola 68000 @ 10 MHz",
+            "ram": "1 MB",
+            "graphics": "Sprite hardware",
+            "sound": "YM2151"
+        }
+    },
+    {
+        "id": "neo_geo_aes",
+        "title": "Neo Geo AES",
+        "subtitle": "Home arcade system",
+        "description": "Released in 1990, the Neo Geo AES delivered arcade-quality gaming at home.",
+        "year": 1990,
+        "releaseDate": "1990-04-26",
+        "category": "computer",
+        "tags": [
+            "SNK",
+            "Arcade"
+        ],
+        "company": "SNK",
+        "platform": null,
+        "media": [
+            {
+                "id": "neo_geo_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Neo-Geo-AES-Console-Set.png/960px-Neo-Geo-AES-Console-Set.png",
+                "type": "image",
+                "attribution": {
+                    "author": "Evan-Amos",
+                    "license": "CC BY-SA 3.0",
+                    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Neo-Geo-AES-Console-Set.png"
+                }
+            }
+        ],
+        "specs": {
+            "cpu": "Motorola 68000 @ 12 MHz",
+            "ram": "64 KB",
+            "graphics": "4096 colors",
+            "sound": "YM2610"
+        }
+    },
+    {
+        "id": "sega_master_system",
+        "title": "Sega Master System",
+        "subtitle": "8-bit console",
+        "description": "Released in 1985, the Master System was Sega’s answer to the NES.",
+        "year": 1985,
+        "releaseDate": "1985-10-20",
+        "category": "computer",
+        "tags": [
+            "Sega",
+            "8-bit"
+        ],
+        "company": "Sega",
+        "platform": null,
+        "media": [
+            {
+                "id": "sms_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sega-Master-System-Set.jpg/960px-Sega-Master-System-Set.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Evan-Amos",
+                    "license": "Public domain",
+                    "licenseURL": "",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sega-Master-System-Set.jpg"
+                }
+            }
+        ],
+        "specs": {
+            "cpu": "Zilog Z80 @ 3.58 MHz",
+            "ram": "8 KB",
+            "graphics": "256×192",
+            "sound": "SN76489"
+        }
+    },
+    {
+        "id": "nes",
+        "title": "Nintendo Entertainment System",
+        "subtitle": "Iconic 8-bit console",
+        "description": "Released in 1983, the NES revitalized the gaming industry.",
+        "year": 1983,
+        "releaseDate": "1983-07-15",
+        "category": "computer",
+        "tags": [
+            "Nintendo",
+            "8-bit"
+        ],
+        "company": "Nintendo",
+        "platform": null,
+        "media": [
+            {
+                "id": "nes_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/960px-NES-Console-Set.png",
+                "type": "image",
+                "attribution": {
+                    "author": "Evan-Amos",
+                    "license": "Public domain",
+                    "licenseURL": "",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:NES-Console-Set.png"
+                }
+            }
+        ],
+        "specs": {
+            "cpu": "Ricoh 2A03",
+            "ram": "2 KB",
+            "graphics": "256×240",
+            "sound": "5-channel"
+        }
+    },
+    {
+        "id": "game_boy",
+        "title": "Game Boy",
+        "subtitle": "Handheld system",
+        "description": "Released in 1989, the Game Boy became a global success.",
+        "year": 1989,
+        "releaseDate": "1989-04-21",
+        "category": "computer",
+        "tags": [
+            "Nintendo",
+            "Handheld"
+        ],
+        "company": "Nintendo",
+        "platform": null,
+        "media": [
+            {
+                "id": "gb_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Game-Boy-FL.png/960px-Game-Boy-FL.png",
+                "type": "image",
+                "attribution": {
+                    "author": "Transfrom JPEG version and remove white background. Original by Evan-Amos.",
+                    "license": "Public domain",
+                    "licenseURL": "",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Game-Boy-FL.png"
+                }
+            }
+        ],
+        "specs": {
+            "cpu": "LR35902 @ 4.19 MHz",
+            "ram": "8 KB",
+            "graphics": "160×144",
+            "sound": "4-channel"
+        }
+    },
+    {
+        "id": "atari_st",
+        "title": "Atari ST",
+        "subtitle": "16-bit home computer",
+        "description": "Released in 1985, the Atari ST was widely used in music production.",
+        "year": 1985,
+        "releaseDate": "1985-06-01",
+        "category": "computer",
+        "tags": [
+            "Atari",
+            "16-bit"
+        ],
+        "company": "Atari",
+        "platform": null,
+        "media": [
+            {
+                "id": "st_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Atari_1040STf.jpg/960px-Atari_1040STf.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "© Bill Bertram, 2006",
+                    "license": "CC BY-SA 2.5",
+                    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Atari_1040STf.jpg"
+                }
+            }
+        ],
+        "specs": {
+            "cpu": "Motorola 68000 @ 8 MHz",
+            "ram": "512 KB",
+            "graphics": "320×200",
+            "sound": "YM2149"
+        }
+    },
+    {
+        "id": "zx81",
+        "title": "ZX81",
+        "subtitle": "Ultra-low-cost computer",
+        "description": "Released in 1981, the ZX81 made computing affordable.",
+        "year": 1981,
+        "releaseDate": "1981-03-05",
+        "category": "computer",
+        "tags": [
+            "Sinclair",
+            "8-bit"
+        ],
+        "company": "Sinclair",
+        "platform": null,
+        "media": [
+            {
+                "id": "zx81_1",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sinclair_ZX81.jpg/960px-Sinclair_ZX81.jpg",
+                "type": "image",
+                "attribution": {
+                    "author": "Journey234",
+                    "license": "Public domain",
+                    "licenseURL": "",
+                    "sourceName": "Wikimedia Commons",
+                    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sinclair_ZX81.jpg"
+                }
+            }
+        ],
+        "specs": {
+            "cpu": "Zilog Z80 @ 3.25 MHz",
+            "ram": "1 KB",
+            "graphics": "Text-based",
+            "sound": "None"
+        }
+    }
+]
